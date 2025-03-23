@@ -8,7 +8,7 @@
   <tr>
     <td width="60%" style="border: none;">
       <ul style="list-style-type: none; padding-left: 0;">
-        <li>🎓 贵州大学软件工程本科在读</li>
+        <li>🎓 软件工程本科在读</li>
         <li>💻 Apache Dubbo Committer，热衷开源项目开发</li>
         <li>🔭 正在参与 Dubbo 和 Spring AI Alibaba 社区建设</li>
         <li>📝 分享技术博客：<a href="https://blog.csdn.net/m0_72902329">我的技术博客</a></li>
