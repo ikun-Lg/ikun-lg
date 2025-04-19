@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+LuoGuang+👋;Apache+Dubbo+Committer;Full+Stack+Developer&center=true&size=27">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+LuoGuang+👋;Full+Stack+Developer&center=true&size=27">
 </div>
 
 ### 🚀 关于我
